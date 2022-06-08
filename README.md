@@ -1,2 +1,2 @@
 # Web-development
-My progress in Web deveopment
+My progress in Web development
